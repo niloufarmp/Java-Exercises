@@ -1,1 +1,1 @@
-**Some java core challanges with answers**
+Java Challenges
