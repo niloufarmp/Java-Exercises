@@ -1,4 +1,4 @@
-package datastructure;
+package textanalyzer;
 
 import java.util.Arrays;
 import java.util.LinkedHashMap;
